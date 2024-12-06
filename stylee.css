@@ -26,8 +26,8 @@
     justify-content: space-between;
     box-shadow: 0px 5px 20px rgb(99, 32, 36) ; /* Shadow lebih tebal */
     transition: box-shadow 0.5s ease; /* Animasi halus untuk shadow */
-    width: 250%; /* Lebar box relatif terhadap container */
-    max-width: 500px;
+    width: 150%; /* Lebar box relatif terhadap container */
+    max-width: 250px;
   margin: 0 auto; /* Tengah secara horizontal */
   text-align: justify; /* Rata tengah teks */
   align-items: center;
@@ -79,7 +79,7 @@
 }
 
 #experience h2 {
-  font-family:  'Luckiest Guy', cursive; 
+  font-family:  'Luckiest Guy'; 
   font-size:  35px; 
   color: #632024; 
   text-shadow: 2px 2px 10px rgb(189, 132, 94);
@@ -87,7 +87,7 @@
 }
 
 .experience-text {
-  font-family: 'Arial', sans-serif; /* Ganti font sesuai kebutuhan */
+  font-family: 'Arial'; /* Ganti font sesuai kebutuhan */
   font-size: 1rem; /* Ukuran font */
   color: #5f4d38; /* Warna teks */
   line-height: 1.6; /* Jarak antar baris */
@@ -96,7 +96,7 @@
 }
 
 .about-text {
-  font-family: 'Arial', sans-serif; 
+  font-family: 'Arial'; 
   font-size: 1.2rem; /* Sesuaikan ukuran font */
   color: #f5e8dc; /* Warna teks */
   text-align: center; /* Perataan teks */
@@ -149,7 +149,7 @@
 }
 
 #contacts h2 {
-  font-family: 'Luckiest Guy', cursive; 
+  font-family: 'Luckiest Guy'; 
   font-size: 48px; 
   color: hwb(34 50% 9%); 
   text-shadow: 2px 2px 10px rgb(99, 32, 36);
